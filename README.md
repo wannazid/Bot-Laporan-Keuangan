@@ -23,6 +23,7 @@ Pencatatan pengeluaran uang, menggunakan Bot Telegram yang terintegrasikan oleh 
 contoh : /new dapur #10.000 bawang-putih,bawang-merah
 
 - Perhatian : untuk item dan kategori jangan sampai menggunakan spasi/space
+
 contohnya : /new dapur #10.000 bawang putih
 
 ### Inspiration From 
