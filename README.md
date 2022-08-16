@@ -18,6 +18,7 @@ pip install -r req.txt
 ```bash
 python3 laporanuang.py
 ```
+![alt text](https://github.com/wannazid/Bot-Laporan-Keuangan/blob/main/IMG_20220816_225601.jpg)
 ## Mendapatkan Acces Token/Bot Token
 - Buka telegram dan cari @BotFather
 - Pilih create new bot, masukan nama bot
