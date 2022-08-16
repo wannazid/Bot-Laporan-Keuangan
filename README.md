@@ -27,7 +27,7 @@ python3 laporanuang.py
 ## Cara Menggunakan
 - Buka console cloud google : https://console.cloud.google.com
 - Buat service account dan buat key baru, download json nya dan simpan satu directory sama file python nya, enable juga api google drive dan google spreadsheets
-- Buka bot.py edit service_account('namafile.json') sesuaikan dengan key json kalian download
+- Buka laporanuang.py edit service_account('namafile.json') sesuaikan dengan key json kalian download
 - Jangan lupa bagikan user yang bisa edit file sheets nya, kalian masukin email pas buat project service account
 - Jika bot sudah dijalankan masukan url spreadsheets dan bot token
 ## Buat Judul Kolom Spreadsheets
