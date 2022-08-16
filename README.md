@@ -2,7 +2,22 @@
 Pencatatan pengeluaran uang, menggunakan Bot Telegram yang terintegrasikan oleh Google SpreadSheets
 
 <img src="https://raw.githubusercontent.com/wannazid/Bot-Laporan-Keuangan/main/Screenshot_2022-08-16-19-53-16-467_org.telegram.messenger.jpg" width="45%"> <img src="https://raw.githubusercontent.com/wannazid/Bot-Laporan-Keuangan/main/Screenshot_2022-08-16-19-51-55-618_com.google.android.apps.docs.editors.sheets.jpg" width="45%">
-
+## Menjalankan Bot
+```bash
+Install Git Now
+```
+```bash
+git clone https://github.com/wannazid/Bot-Laporan-Keuangan
+```
+```bash
+cd Bot-Laporan-Keuangan
+```
+```bash
+pip install -r req.txt
+```
+```bash
+python3 laporanuang.py
+```
 ## Mendapatkan Acces Token/Bot Token
 - Buka telegram dan cari @BotFather
 - Pilih create new bot, masukan nama bot
