@@ -17,7 +17,7 @@ Pencatatan pengeluaran uang, menggunakan Bot Telegram yang terintegrasikan oleh 
 - Harga
 - Item
 - Nama Pelapor
-- ID Pelapor
+- ID Pelapor (ID Telegram)
 ## Cara Memasukan
 - /new (kategori) #harga (item)
 contoh : /new dapur #10.000 bawang-putih,bawang-merah
