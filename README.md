@@ -31,6 +31,7 @@ python3 laporanuang.py
 - Buka laporanuang.py edit service_account('namafile.json') sesuaikan dengan key json kalian download, bot_token dan beserta sheets_url nya
 - Jangan lupa bagikan user yang bisa edit file sheets nya, kalian masukin email pas buat project service account
 - Jangan lupa membuat judul kolom yang ada dibawah ini
+- Baru jalankan file python nya jika tidak akan error nantinya
 ## Buat Judul Kolom Spreadsheets
 - Tanggal
 - Kategori
