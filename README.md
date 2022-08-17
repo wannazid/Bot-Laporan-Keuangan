@@ -4,13 +4,14 @@ Pencatatan pengeluaran uang, menggunakan Bot Telegram yang terintegrasikan oleh 
 <img src="https://raw.githubusercontent.com/wannazid/Bot-Laporan-Keuangan/main/Screenshot_2022-08-16-19-53-16-467_org.telegram.messenger.jpg" width="45%"> <img src="https://raw.githubusercontent.com/wannazid/Bot-Laporan-Keuangan/main/Screenshot_2022-08-16-19-51-55-618_com.google.android.apps.docs.editors.sheets.jpg" width="45%">
 ## Menjalankan Bot
 ```bash
-Install Git Now
+Download This Respository
 ```
 ```bash
-git clone https://github.com/wannazid/Bot-Laporan-Keuangan
-```
-```bash
-cd Bot-Laporan-Keuangan
+Edit file python
+
+bot_token = 'editnow'
+sheets_url = 'editnow'
+service_account('filejson.json')
 ```
 ```bash
 pip install -r req.txt
